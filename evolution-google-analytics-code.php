@@ -3,7 +3,7 @@
 Plugin Name: AH Google Analytics Code
 Plugin URI: https://wordpress.org/plugins/evolution-google-analytics-code/developers/
 Description: With this plugin you can add the Google Analytics Code (or any other) in no time to your header or footer.
-Version: 1.0.4
+Version: 1.0.7
 Author: Andreas Hecht
 Author URI: https://andreas-hecht.com/
 License: GPL2 or higher

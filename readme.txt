@@ -2,8 +2,8 @@
 Tags: analytics, google, google analytics, google analytics code, analytics code, piwik, piwik code
 Contributors: AHecht
 Requires at least: 4.7
-Tested up to: 4.7.1
-Stable tag: 1.0.4
+Tested up to: 4.8.2
+Stable tag: 1.0.7
 Donate link: https://andreas-hecht.com/ah-google-analytics-code/
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -38,8 +38,14 @@ None at this time.
 
 == Changelog ==
 
+= 1.0.7 =
+* Ready for WP Version 4.8.2 - Stable Version
+
+= 1.0.6 =
+* Ready for WP Version 4.8.0 - Stable Version
+
 = 1.0.4 =
-* Ready for WP Version 4.7.1 - Stable Version
+* Ready for WP Version 4.7.1
 
 = 1.0.1 =
 * completely rewritten
